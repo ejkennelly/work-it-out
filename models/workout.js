@@ -40,7 +40,7 @@ const workoutSchema = new Schema(
     },
     {
         toJSON: {
-            virtuals: ture
+            virtuals: true
         }
     }
 );
