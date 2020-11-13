@@ -12,7 +12,7 @@ let workoutSeed = [
     exercises: [
       {
         type: "resistance",
-        name: "Bicep Curl",
+        name: "Dead Lift",
         duration: 20,
         weight: 100,
         reps: 10,
@@ -25,9 +25,9 @@ let workoutSeed = [
     exercises: [
       {
         type: "resistance",
-        name: "Lateral Pull",
+        name: "Reverse Fly",
         duration: 20,
-        weight: 300,
+        weight: 15,
         reps: 10,
         sets: 4
       }
@@ -38,9 +38,9 @@ let workoutSeed = [
     exercises: [
       {
         type: "resistance",
-        name: "Push Press",
+        name: "Hammer Curl",
         duration: 25,
-        weight: 185,
+        weight: 25,
         reps: 8,
         sets: 4
       }
@@ -52,7 +52,7 @@ let workoutSeed = [
       {
         type: "cardio",
         name: "Running",
-        duration: 25,
+        duration: 55,
         distance: 4
       }
     ]
@@ -64,7 +64,7 @@ let workoutSeed = [
         type: "resistance",
         name: "Bench Press",
         duration: 20,
-        weight: 285,
+        weight: 155,
         reps: 10,
         sets: 4
       }
@@ -77,7 +77,7 @@ let workoutSeed = [
         type: "resistance",
         name: "Bench Press",
         duration: 20,
-        weight: 300,
+        weight: 200,
         reps: 10,
         sets: 4
       }
@@ -88,9 +88,9 @@ let workoutSeed = [
     exercises: [
       {
         type: "resistance",
-        name: "Quad Press",
+        name: "Leg Press",
         duration: 30,
-        weight: 300,
+        weight: 160,
         reps: 10,
         sets: 4
       }
@@ -101,9 +101,9 @@ let workoutSeed = [
     exercises: [
       {
         type: "resistance",
-        name: "Bench Press",
+        name: "Row",
         duration: 20,
-        weight: 300,
+        weight: 140,
         reps: 10,
         sets: 4
       }
@@ -114,9 +114,9 @@ let workoutSeed = [
     exercises: [
       {
         type: "resistance",
-        name: "Military Press",
+        name: "Lat pulldown",
         duration: 20,
-        weight: 300,
+        weight: 100,
         reps: 10,
         sets: 4
       }
